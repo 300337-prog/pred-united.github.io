@@ -1,0 +1,6 @@
+{
+  "name": "Predator United - FC 27 Pro Clubs",
+  "description": "Official club hub for Predator United in EA Sports FC 27 Pro Clubs. Real-time statistics, match reports, squad lineup, and tactical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
